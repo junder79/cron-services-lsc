@@ -1,0 +1,19 @@
+{
+  "name": "cron-lsc",
+  "version": "1.0.0",
+  "description": "cron service for get news",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junder79/cron-services-lsc.git"
+  },
+  "author": "junder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junder79/cron-services-lsc/issues"
+  },
+  "homepage": "https://github.com/junder79/cron-services-lsc#readme"
+}
